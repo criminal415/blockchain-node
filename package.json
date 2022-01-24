@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-node",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/criminal415/blockchain-node.git",
+  "author": "criminal415 <denny415@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
